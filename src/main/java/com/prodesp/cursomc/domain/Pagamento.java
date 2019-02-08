@@ -11,6 +11,7 @@ import javax.persistence.OneToOne;
 
 import com.prodesp.cursomc.domain.enums.EstadoPagamento;
 
+// TODO Estudar
 @Entity
 @Inheritance(strategy=javax.persistence.InheritanceType.JOINED)
 public abstract class Pagamento implements Serializable {
@@ -21,6 +22,7 @@ public abstract class Pagamento implements Serializable {
 	private Integer id;
 	private Integer estado;
 	
+	// TODO Estudar
 	@OneToOne
 	@JoinColumn(name="pedido_id")
 	@MapsId
