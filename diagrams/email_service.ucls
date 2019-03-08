@@ -4,7 +4,7 @@
   <class id="1" language="java" name="com.prodesp.cursomc.services.AbstractEmailService" project="cursomc" 
     file="/cursomc/src/main/java/com/prodesp/cursomc/services/AbstractEmailService.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="553" y="273"/>    
+    <position height="-1" width="-1" x="553" y="303"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -23,7 +23,7 @@
   <class id="3" language="java" name="com.prodesp.cursomc.services.MockEmailService" project="cursomc" 
     file="/cursomc/src/main/java/com/prodesp/cursomc/services/MockEmailService.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="422" y="454"/>    
+    <position height="-1" width="-1" x="423" y="515"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -51,7 +51,7 @@
   <class id="6" language="java" name="com.prodesp.cursomc.services.SmtpEmailService" project="cursomc" 
     file="/cursomc/src/main/java/com/prodesp/cursomc/services/SmtpEmailService.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="663" y="460"/>    
+    <position height="-1" width="-1" x="664" y="526"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
